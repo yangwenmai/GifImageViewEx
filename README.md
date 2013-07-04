@@ -2,7 +2,8 @@
 -------
 项目说明
 
-	1、本项目是采用了ImageViewEx插件[https://github.com/frapontillo/ImageViewEx](https://github.com/frapontillo/ImageViewEx "ImageViewEx")
+	1、本项目是采用了ImageViewEx插件
+	[https://github.com/frapontillo/ImageViewEx](https://github.com/frapontillo/ImageViewEx "ImageViewEx")
 	2、为了保证项目的可运行性，特将ImageViewEx插件所需要的第三方jar包和android library都加入到本项目的源码中
 项目包括以下几点
 
